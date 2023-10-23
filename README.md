@@ -43,8 +43,6 @@
 </a>
 </div>
 
-<br /> 
-![Snake animation](https://github.com/krisibraynova01/krisibraynova01/blob/output/github-contribution-grid-snake.svg)
 
 
 
