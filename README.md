@@ -32,7 +32,9 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kristina-braynova-1497081b3//)  
 </p>
+
 ## 🏆 My Github Stats:
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=krisibraynova01&theme=radical">
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=krisibraynova01&count_private=true&show_icons=true&theme=radical" />
