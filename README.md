@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Kristina
 
-#### I am Data Enthusiast 👨‍💻
+#### I am a Data Enthusiast 👨‍💻
 
 - 🌱 I’m currently learning Python Web Development and Data Science 
 - 📚 I study Master's degree in Informatics and Software Science at Technical University of Sofia
 - 🎓 BEng in Management and Business Information Systems
 - 👯 I’m looking to collaborate on **BI Project**
-- ⚡ Fun fact: I am Bulgarian Dancer
+- ⚡ Fun fact: I am a Bulgarian Dancer
 
 
 <a target="_blank" align="right">
