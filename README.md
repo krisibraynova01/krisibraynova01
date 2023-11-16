@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[krisibraynova01])
+![Visitor Count](https://profile-counter.glitch.me/{krisibraynova01}/count.svg)
 
 ### Hi there 👋, my name is Kristina
 
