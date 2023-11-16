@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{krisibraynova01}/count.svg)
-
 ### Hi there 👋, my name is Kristina
 
 #### I am a Data Enthusiast 👨‍💻
