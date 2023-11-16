@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/[krisibraynova01])
+
 ### Hi there 👋, my name is Kristina
 
 #### I am a Data Enthusiast 👨‍💻
