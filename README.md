@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Python Web Development and Data Science 
 - 📚 I study Master's degree in Informatics and Software Science at Technical University of Sofia
 - 🎓 BEng in Management and Business Information Systems
-- 👯 I’m looking to collaborate on **BI Project**
 - ⚡ Fun fact: I am a Bulgarian Dancer
 
 
