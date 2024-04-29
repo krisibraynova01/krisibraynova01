@@ -22,6 +22,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="40" style="padding-right; margin:4px">
 <img align="left" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/icons8-jupyter.svg" alt="Jupyter" height="40" style="padding-right; margin:4px">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40">
+<img align="left" src="[https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg](https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg)" alt="Pandas" height="40">
 </p>
 
 <br />
